@@ -7,9 +7,13 @@
 <a name="1"></a>
 ## 1. Required Libraries
 1.numpy
+
 2.pandas
+
 3.nltk
+
 4.sqlalchemy
+
 5.sklearn
 
 <a name="2"></a>
